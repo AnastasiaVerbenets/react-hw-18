@@ -1,4 +1,4 @@
-import { Component, useState, useRef, useEffect } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import s from './Clock.module.css';
 
 const Clock = () => {
